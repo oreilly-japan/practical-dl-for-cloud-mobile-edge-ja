@@ -1,6 +1,6 @@
-# Chapter 16
+# 16章: Kerasを使ったエンドツーエンドのディープラーニングと、自動運転車のシミュレーション
 
-16章はゲストによる寄稿のため、[原著のリポジトリ](https://github.com/PracticalDL/Practical-Deep-Learning-Book/tree/master/code/chapter-16)でも[外部のリポジトリ](https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)を参照しています。
+16章はゲストによる寄稿のため、原著のリポジトリ[PracticalDL/Practical-Deep-Learning-Book/code/chapter-16](https://github.com/PracticalDL/Practical-Deep-Learning-Book/tree/master/code/chapter-16)でも外部のリポジトリ[microsoft/AutonomousDrivingCookbook/AirSimE2EDeepLearning](https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)を参照しています。
 
 上記のリポジトリでは [`InstallPackages.py`](https://github.com/microsoft/AutonomousDrivingCookbook/blob/7a412165fcff2bc427ea1498bb3c0ec7b1e0f522/InstallPackages.py) を利用しての環境構築が推奨されていますが、ライブラリのバージョン指定が無くそのままでは現在動作しないものがあるため、次のようにバージョンを指定してインストールしてください:
 
